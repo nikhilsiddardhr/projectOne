@@ -402,3 +402,7 @@ footer{
 footer p{
     text-align:center;
 }
+
+.profilephoto{
+    border-radius: 1rem;
+}
